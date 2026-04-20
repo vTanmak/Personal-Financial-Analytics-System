@@ -32,7 +32,7 @@ The report uses a **Star Schema** with four tables:
 ## Tech Stack
 
 - Microsoft Power BI Desktop
-- DAX (50+ custom measures)
+- DAX (custom measures)
 - Power Query (M Language)
 - CSV flat files as data source
 
