@@ -1,0 +1,121 @@
+﻿Category,Month,MonthName,Year,MonthlyBudget
+Rent,1,Jan,2024,20000
+Rent,2,Feb,2024,20000
+Rent,3,Mar,2024,20000
+Rent,4,Apr,2024,20000
+Rent,5,May,2024,20000
+Rent,6,Jun,2024,20000
+Rent,7,Jul,2024,20000
+Rent,8,Aug,2024,20000
+Rent,9,Sep,2024,20000
+Rent,10,Oct,2024,20000
+Rent,11,Nov,2024,20000
+Rent,12,Dec,2024,20000
+Groceries,1,Jan,2024,5000
+Groceries,2,Feb,2024,5000
+Groceries,3,Mar,2024,5000
+Groceries,4,Apr,2024,5000
+Groceries,5,May,2024,5000
+Groceries,6,Jun,2024,5000
+Groceries,7,Jul,2024,5000
+Groceries,8,Aug,2024,5000
+Groceries,9,Sep,2024,5000
+Groceries,10,Oct,2024,5000
+Groceries,11,Nov,2024,5000
+Groceries,12,Dec,2024,5000
+Food & Dining,1,Jan,2024,8000
+Food & Dining,2,Feb,2024,8000
+Food & Dining,3,Mar,2024,8000
+Food & Dining,4,Apr,2024,8000
+Food & Dining,5,May,2024,8000
+Food & Dining,6,Jun,2024,8000
+Food & Dining,7,Jul,2024,8000
+Food & Dining,8,Aug,2024,8000
+Food & Dining,9,Sep,2024,8000
+Food & Dining,10,Oct,2024,8000
+Food & Dining,11,Nov,2024,8000
+Food & Dining,12,Dec,2024,8000
+Travel,1,Jan,2024,6000
+Travel,2,Feb,2024,6000
+Travel,3,Mar,2024,6000
+Travel,4,Apr,2024,6000
+Travel,5,May,2024,6000
+Travel,6,Jun,2024,6000
+Travel,7,Jul,2024,6000
+Travel,8,Aug,2024,6000
+Travel,9,Sep,2024,6000
+Travel,10,Oct,2024,6000
+Travel,11,Nov,2024,6000
+Travel,12,Dec,2024,6000
+Entertainment,1,Jan,2024,3000
+Entertainment,2,Feb,2024,3000
+Entertainment,3,Mar,2024,3000
+Entertainment,4,Apr,2024,3000
+Entertainment,5,May,2024,3000
+Entertainment,6,Jun,2024,3000
+Entertainment,7,Jul,2024,3000
+Entertainment,8,Aug,2024,3000
+Entertainment,9,Sep,2024,3000
+Entertainment,10,Oct,2024,3000
+Entertainment,11,Nov,2024,3000
+Entertainment,12,Dec,2024,3000
+Shopping,1,Jan,2024,5000
+Shopping,2,Feb,2024,5000
+Shopping,3,Mar,2024,5000
+Shopping,4,Apr,2024,5000
+Shopping,5,May,2024,5000
+Shopping,6,Jun,2024,5000
+Shopping,7,Jul,2024,5000
+Shopping,8,Aug,2024,5000
+Shopping,9,Sep,2024,5000
+Shopping,10,Oct,2024,5000
+Shopping,11,Nov,2024,5000
+Shopping,12,Dec,2024,5000
+Healthcare,1,Jan,2024,3000
+Healthcare,2,Feb,2024,3000
+Healthcare,3,Mar,2024,3000
+Healthcare,4,Apr,2024,3000
+Healthcare,5,May,2024,3000
+Healthcare,6,Jun,2024,3000
+Healthcare,7,Jul,2024,3000
+Healthcare,8,Aug,2024,3000
+Healthcare,9,Sep,2024,3000
+Healthcare,10,Oct,2024,3000
+Healthcare,11,Nov,2024,3000
+Healthcare,12,Dec,2024,3000
+Utilities,1,Jan,2024,3000
+Utilities,2,Feb,2024,3000
+Utilities,3,Mar,2024,3000
+Utilities,4,Apr,2024,3000
+Utilities,5,May,2024,3000
+Utilities,6,Jun,2024,3000
+Utilities,7,Jul,2024,3000
+Utilities,8,Aug,2024,3000
+Utilities,9,Sep,2024,3000
+Utilities,10,Oct,2024,3000
+Utilities,11,Nov,2024,3000
+Utilities,12,Dec,2024,3000
+Subscriptions,1,Jan,2024,2000
+Subscriptions,2,Feb,2024,2000
+Subscriptions,3,Mar,2024,2000
+Subscriptions,4,Apr,2024,2000
+Subscriptions,5,May,2024,2000
+Subscriptions,6,Jun,2024,2000
+Subscriptions,7,Jul,2024,2000
+Subscriptions,8,Aug,2024,2000
+Subscriptions,9,Sep,2024,2000
+Subscriptions,10,Oct,2024,2000
+Subscriptions,11,Nov,2024,2000
+Subscriptions,12,Dec,2024,2000
+Education,1,Jan,2024,4000
+Education,2,Feb,2024,4000
+Education,3,Mar,2024,4000
+Education,4,Apr,2024,4000
+Education,5,May,2024,4000
+Education,6,Jun,2024,4000
+Education,7,Jul,2024,4000
+Education,8,Aug,2024,4000
+Education,9,Sep,2024,4000
+Education,10,Oct,2024,4000
+Education,11,Nov,2024,4000
+Education,12,Dec,2024,4000
